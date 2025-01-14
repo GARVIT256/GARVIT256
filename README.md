@@ -10,7 +10,7 @@
 - **Operating Systems**: 💻 **Linux**  
 - **Programming Languages**: ⚛️ **C/C++** | 🐍 **Python** | ☕ **Java**  
 - **Web Development**: 🌐 **HTML | CSS | JavaScript | React**  
-- **Databases**: 🗄️ **MySQL**  
+- **Databases**: 🗄️ **MySQL | MongoDb**  
 
 
 ---

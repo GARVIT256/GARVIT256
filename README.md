@@ -1,29 +1,48 @@
-# Hi, I'm Garvit! 👋
+# 👋 Hi, I’m **Garvit Gandhi**!  
 
-I'm a first-year BTech student in Computer Science with a passion for learning new technologies and building cool projects.
+🎓 **Second-Year BTech Student | Computer Science**  
+✨ Passionate about technology, innovation, and building meaningful projects that make an impact.  
 
-## Technologies I Love ❤️
+---
 
-- 💻 Linux
-- ⚛️ C
-- 🐍 Python
+## 🛠️ **Tools & Technologies I Work With**  
 
-## Open for Collaborations 🤝
+- **Operating Systems**: 💻 **Linux**  
+- **Programming Languages**: ⚛️ **C** | 🐍 **Python** | ☕ **Java**  
+- **Web Development**: 🌐 **HTML | CSS | JavaScript | React**  
+- **Databases**: 🗄️ **MySQL**  
 
-I'm always looking for new challenges and exciting projects to work on. If you have any ideas or collaborations in mind, please don't hesitate to reach out!
 
-## Connect with Me 📫
+---
 
-Feel free to explore my (https://github.com/Garvit256) to see what I've been working on.
+## 🚀 **Currently Exploring**  
 
-You can reach me via email at [garvit.gandhi.05@gmail.com](mailto:garvit.gandhi.05@gmail.com) 
-## About Me 🌟
+🤖 **Machine Learning** – Delving into cutting-edge algorithms and their real-world applications.  
 
-I'm a curious and passionate individual who believes in the power of technology to shape the future. I'm constantly inspired by the quote:
+---
 
-> "The only way to do great work is to love what you do." - Steve Jobs
+## 🤝 **Collaborate with Me**  
 
-Thanks for visiting my GitHub profile! 🙌
+💡 **Got an idea or project in mind?** Let’s team up and create something innovative! I’m always on the lookout for new challenges and learning opportunities.  
+
+---
+
+## 🌐 **Connect with Me**  
+
+📂 **GitHub**: [Garvit256](https://github.com/Garvit256)  
+✉️ **Email**: [garvit.gandhi.05@gmail.com](mailto:garvit.gandhi.05@gmail.com)  
+💼 **LinkedIn**: [Garvit Gandhi](https://www.linkedin.com/in/garvit-gandhi)  
+
+---
+
+## 🌟 **About Me**  
+
+I’m a tech enthusiast with a deep belief in the transformative power of technology. Whether it’s coding, learning, or collaborating, I put my heart into every project I work on.  
+
+> _“The only way to do great work is to love what you do.”_ – **Steve Jobs**  
+
+Thanks for visiting my profile! 🙌  
+Feel free to connect—let’s innovate, grow, and achieve greatness together. 🌟  
 
 <!--
 **GARVIT256/garvit256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

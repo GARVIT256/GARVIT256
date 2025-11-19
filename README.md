@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Garvit Gandhi**!  
 
-🎓 **Second-Year BTech Student | Computer Science**  
+🎓 **PreFinal-Year BTech Student | Computer Science**  
 ✨ Passionate about technology, innovation, and building meaningful projects that make an impact.  
 
 ---
